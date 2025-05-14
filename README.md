@@ -5,7 +5,7 @@
 
 A robust HTTP client with retry logic, proxy support, concurrent requests, and logging capabilities.
 
-##  Why Choose HttpX? ✨
+##  Features ✨
 - Automatic retry with backoff
 - Proxy & authentication support
 - Cookie persistence
