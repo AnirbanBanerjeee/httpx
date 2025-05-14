@@ -128,7 +128,7 @@ if ($response->statusCode === 200) {
 ```
 
 ## Author 👤 
-- GitHub: [@anirbanbanerjeee](https://github.com/anirbanbanerjeee)  
+- GitHub: [@DevAniiii](https://github.com/DevAniiii)  
 
 ## License 📄
 This project is licensed under the MIT License
